@@ -42,10 +42,6 @@ Acompanhe o progresso diário enquanto resolvo os desafios. 😉
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para enviar um pull request com melhorias ou soluções alternativas.
 
-## 📧 Contato
-Se tiver dúvidas ou sugestões, entre em contato:
-- **Email:** seuemail@example.com
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/seuperfil/)
 
 ---
 
@@ -96,11 +92,6 @@ Follow along as I solve the daily challenges. 😉
 ## 🤝 Contributions
 
 Contributions are always welcome! Feel free to submit a pull request with improvements or alternative solutions.
-
-## 📧 Contact
-If you have any questions or suggestions, reach out to me:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/yourprofile/)
 
 ---
 
