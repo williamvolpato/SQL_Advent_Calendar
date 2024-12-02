@@ -32,7 +32,7 @@ SQL_Advent_Calendar/
 
 ## 📌 Progresso Atual
 - [x] Dia 1
-- [ ] Dia 2
+- [x] Dia 2
 - [ ] Dia 3
 - ...
 
@@ -83,7 +83,7 @@ SQL_Advent_Calendar/
 
 ## 📌 Current Progress
 - [x] Day 1
-- [ ] Day 2
+- [x] Day 2
 - [ ] Day 3
 - ...
 
