@@ -33,7 +33,7 @@ SQL_Advent_Calendar/
 ## 📌 Progresso Atual
 - [x] Dia 1
 - [x] Dia 2
-- [ ] Dia 3
+- [x] Dia 3
 - ...
 
 Acompanhe o progresso diário enquanto resolvo os desafios. 😉
@@ -84,7 +84,7 @@ SQL_Advent_Calendar/
 ## 📌 Current Progress
 - [x] Day 1
 - [x] Day 2
-- [ ] Day 3
+- [x] Day 3
 - ...
 
 Follow along as I solve the daily challenges. 😉
