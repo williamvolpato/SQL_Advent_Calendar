@@ -36,6 +36,7 @@ SQL_Advent_Calendar/
 - [x] Dia 3
 - [x] Dia 4
 - [x] Dia 5
+- [x] Dia 6
 
 Acompanhe o progresso diário enquanto resolvo os desafios. 😉
 
@@ -88,6 +89,7 @@ SQL_Advent_Calendar/
 - [x] Day 3
 - [x] Day 4
 - [x] Day 5
+- [x] Day 6
 
 Follow along as I solve the daily challenges. 😉
 
