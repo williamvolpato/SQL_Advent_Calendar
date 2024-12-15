@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório do **SQL Advent Calendar**, um desafio gratuito de
 
 ## 🎯 Sobre o Desafio
 
-O **SQL Advent Calendar** é uma oportunidade incrível para aprimorar minhas habilidades em SQL por meio de exercícios práticos e envolventes.
+O **SQL Advent Calendar** é uma oportunidade incrível para aprimorar minhas habilidades em SQL por meio de exercícios práticos e envolventes. -> https://www.sqlcalendar.com/app/advent-calendar
 
 - **📅 Período:** 1º a 24 de dezembro
 - **💡 Desafio diário:** Resolver uma nova questão SQL a cada dia
@@ -66,7 +66,7 @@ Welcome to my **SQL Advent Calendar** repository, a free 24-day challenge happen
 
 ## 🎯 About the Challenge
 
-The **SQL Advent Calendar** is an amazing opportunity to enhance my SQL skills through practical and engaging exercises.
+The **SQL Advent Calendar** is an amazing opportunity to enhance my SQL skills through practical and engaging exercises. -> https://www.sqlcalendar.com/app/advent-calendar
 
 - **📅 Duration:** December 1st to 24th
 - **💡 Daily Challenge:** Solve a new SQL problem each day
