@@ -49,6 +49,7 @@ SQL_Advent_Calendar/
 - [x] Dia 16
 - [x] Dia 17
 - [x] Dia 18
+- [x] Dia 19
 
 Acompanhe o progresso diário enquanto resolvo os desafios. 😉
 
@@ -114,6 +115,7 @@ SQL_Advent_Calendar/
 - [x] Day 16
 - [x] Day 17
 - [x] Day 18
+- [x] Day 19
 
 Follow along as I solve the daily challenges. 😉
 
