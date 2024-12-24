@@ -54,6 +54,7 @@ SQL_Advent_Calendar/
 - [x] Dia 21
 - [x] Dia 22
 - [x] Dia 23
+- [x] Dia 24 
 
 Acompanhe o progresso diário enquanto resolvo os desafios. 😉
 
@@ -124,6 +125,7 @@ SQL_Advent_Calendar/
 - [x] Day 21
 - [x] Day 22
 - [x] Day 23
+- [x] Day 24
 
 Follow along as I solve the daily challenges. 😉
 
